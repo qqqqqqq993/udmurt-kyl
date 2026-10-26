@@ -1,0 +1,1 @@
+-keepclassmembers class ru.udmkyl.app.MainActivity$Bridge { @android.webkit.JavascriptInterface <methods>; }
